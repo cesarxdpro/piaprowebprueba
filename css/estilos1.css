@@ -1,0 +1,46 @@
+body{
+	background-image: url(../Images/3998311.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+}
+
+h1{
+	font-family:Arial;
+}
+
+p {
+	text-indent: 5em
+}
+
+.container{
+	width: 60%;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+	 -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+	text-align: center;
+	background-color: white;
+	border-radius: 15px;
+	box-shadow: 0px 0px 15px 1px black;
+	font-family: Arial;
+    
+}
+
+.row{
+	text-align: justify;
+}
+
+.Titulo{
+	text-align: center;
+}
+
+footer {
+    background-color: #d0dde1	;
+    padding: 10px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
